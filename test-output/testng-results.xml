@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-19T10:22:38 GMT+03:00" name="Default suite" finished-at="2025-03-19T10:22:49 GMT+03:00" duration-ms="11107">
+    <groups>
+    </groups>
+    <test started-at="2025-03-19T10:22:38 GMT+03:00" name="Default test" finished-at="2025-03-19T10:22:49 GMT+03:00" duration-ms="11107">
+      <class name="A">
+        <test-method is-config="true" signature="befor()[pri:0, instance:A@47a5b70d]" started-at="2025-03-19T10:22:38 GMT+03:00" name="befor" finished-at="2025-03-19T10:22:40 GMT+03:00" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befor -->
+        <test-method signature="testLoginwithnonvalid()[pri:1, instance:A@47a5b70d]" started-at="2025-03-19T10:22:41 GMT+03:00" name="testLoginwithnonvalid" finished-at="2025-03-19T10:22:41 GMT+03:00" duration-ms="909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginwithnonvalid -->
+        <test-method signature="testLogin()[pri:2, instance:A@47a5b70d]" started-at="2025-03-19T10:22:41 GMT+03:00" name="testLogin" finished-at="2025-03-19T10:22:43 GMT+03:00" duration-ms="1060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="practice()[pri:3, instance:A@47a5b70d]" started-at="2025-03-19T10:22:43 GMT+03:00" name="practice" finished-at="2025-03-19T10:22:49 GMT+03:00" duration-ms="6656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practice -->
+        <test-method is-config="true" signature="after()[pri:0, instance:A@47a5b70d]" started-at="2025-03-19T10:22:49 GMT+03:00" name="after" finished-at="2025-03-19T10:22:49 GMT+03:00" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
